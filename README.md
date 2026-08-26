@@ -1,6 +1,6 @@
 # Hi, I'm Hsin-Yen 👋
 
-<img src="https://media.giphy.com/media/etOX3h7ApZuDe7Fc5w/giphy_s.gif" width="120" align="right" alt="Kermit the Frog dancing" />
+<img src="https://media.giphy.com/media/etOX3h7ApZuDe7Fc5w/100.gif" width="80" align="right" alt="Kermit the Frog dancing" />
 
 Electrical Engineering student at National Taiwan Normal University (國立臺灣師範大學電機工程學系), moving from electronics into AI, software, and robotics — one real-world problem at a time.
 
