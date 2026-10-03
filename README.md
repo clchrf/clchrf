@@ -25,9 +25,10 @@ I don't start from a technology and look for a use — I start from a problem I'
 
 | Project | What it is | Stack |
 |---|---|---|
-| [moocs-public](https://github.com/moocs-ai/moocs-public) ([site](https://moocs-ai.github.io/moocs-public/)) | Research project: systematic review + competency tagging of MOOC AI courses, with a public course-recommendation site | Research, static web |
+| [Air Digits](https://github.com/clchrf/ntu-robotics-2026-robotarm-air-digits) | Write a number in the air with your finger — the camera recognizes it and a 3-axis robot arm moves that many times. Runs in simulation without the arm | ROS 2 Jazzy, MediaPipe, OpenCV, PyQt6, Arduino |
+| Robot Arm Series: [RobotDance](https://github.com/clchrf/dancearm) · [Control Center](https://github.com/clchrf/robot-arm-control-center) | A 3-axis arm that dances to music by tracking beat and bass, plus a control app with sliders, coordinate input, teach-and-playback, and 3D simulation | Python, Arduino, stepper motors |
 | [freshflow](https://github.com/clchrf/freshflow) ([demo](https://freshflow-iota.vercel.app)) | Order/delivery/receivables/purchasing system for a small food wholesaler | React, TypeScript, Supabase |
-| [ntnu-trans-hub](https://github.com/clchrf/ntnu-trans-hub) | Info hub for NTNU transfer students — built while serving as association president | React, Vite, Tailwind |
+| [moocs-public](https://github.com/moocs-ai/moocs-public) ([site](https://moocs-ai.github.io/moocs-public/)) · [jev-course-demo](https://github.com/clchrf/jev-course-demo) ([demo](https://clchrf.github.io/jev-course-demo/)) | Research project: systematic review + competency tagging of MOOC AI courses with a public recommendation site; plus an in-browser demo that checks course syllabi against a competency rubric with an on-device language model | Research, static web, ONNX |
 | [NtnuTransferHelper](https://github.com/clchrf/NtnuTransferHelper) | Gemini-powered chat agent answering transfer-student questions from a structured knowledge base | AWS AgentCore, Gemini API, Python |
 | [engineering-math-ai](https://github.com/clchrf/engineering-math-ai) | Interactive engineering-math learning site — slope-field visualization, diagnostic wrong-answer feedback | Astro, TypeScript |
 
@@ -60,7 +61,7 @@ Projects I've built or am building outside a pushed repo — described conservat
 **Programming** — Python · TypeScript/JavaScript · C/C++ · Swift
 **AI / Computer Vision** — YOLOv8 · OpenCV · LLM integration (Gemini API)
 **Embedded / Electronics** — Arduino · ESP32 · PCB
-**Robotics** — ROS
+**Robotics** — ROS 2 (Jazzy) · MediaPipe · Arduino stepper control
 **Software** — React · Next.js · Astro · Supabase · AWS AgentCore
 
 ## 📜 Certifications
