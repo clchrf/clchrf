@@ -15,6 +15,7 @@ I don't start from a technology and look for a use — I start from a problem I'
 | Result | Competition |
 |---|---|
 | 🥈 2nd Place + Special Award | 2026 三菱重工空調創新 App 開發大賽 |
+| 🥈 2nd Place, Maker Track | 2026 梅竹黑客松 |
 | 🥇 First Prize | 2025 SPARKFUL 黑客松 |
 | 🥉 3rd Place, Maker Track | 2025 梅竹黑客松 |
 | Honorable Mention | 2025 三好 AI 創新應用競賽 |
